@@ -39,7 +39,7 @@ body {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 2.5rem;
 }
 
 .one > img {
@@ -50,7 +50,7 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 2.2rem;
   font-weight: lighter;
 }
 
